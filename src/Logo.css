@@ -1,0 +1,24 @@
+.logo {
+  /* position: absolute; */
+  width: 50px;
+  height: 50px;
+
+  background: #ffffff;
+  /* Iris/100 */
+
+  border: 3px solid #0e12f5;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+h4 {
+  color: #0e12f5;
+  position: relative;
+  left: 17px;
+  bottom: 10px;
+  font-family: Poppins;
+}
+
+/* .navbar {
+  margin-left: 30rem;
+} */

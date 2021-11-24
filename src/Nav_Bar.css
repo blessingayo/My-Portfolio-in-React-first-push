@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 4rem;
+  /* margin-left: 10rem; */
+  font-family: Poppins;
+  /* background-color: black;
+  color: white; */
+}
+
+a {
+  color: #3100c2;
+  /* margin-left: 1.5rem; */
+  /* margin-top: 8rem; */
+  font-weight: 500;
+  /* font-size: normal; */
+
+  margin-right: 20px;
+  cursor: pointer;
+  padding-bottom: 5px;
+  border: 2px solid transparent;
+}
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navbar div:first-child {
+  margin-right: auto;
+}
+
+.navbar .nav-links {
+  width: 50%;
+
+  display: flex;
+  justify-content: space-between;
+}
+.navbar a:hover {
+  border-bottom: 2px solid rgb(241, 148, 8);
+}
+
+.line1 {
+  cursor: pointer;
+}
+
+.well-site {
+  font-size: large;
+}

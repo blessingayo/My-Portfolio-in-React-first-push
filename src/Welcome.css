@@ -1,0 +1,19 @@
+.welcome-div{
+  margin-top: 60px;
+}
+
+p {
+  font-size: 2rem;
+  padding: 0;
+  color: #0e12f5;
+  font-weight: bolder;
+  /* font-family: Poppins; */
+  line-height: 20px;
+  position: relative;
+  /* top: 40%; */
+}
+
+span {
+  color: #ffa602;
+  /* font-family: Poppins; */
+}

@@ -1,0 +1,52 @@
+.btn1 {
+  /* position: absolute; */
+  width: 45%;
+  height: 53.32px;
+  /* left: 10%;
+  top: 520px; */
+  border: none;
+  color: white;
+  /* font-family: Poppins; */
+  background: #3100c2;
+  border-radius: 24.527px;
+  filter: drop-shadow(4.26556px 4.26556px 4.26556px rgba(49, 0, 194, 0.31));
+  font-family: Poppins;
+  cursor: pointer;
+}
+
+/* .btn1:hover {
+  background: #ffffff;
+  border: 4.26556px solid #3100c2;
+  cursor: pointer;
+  color: #3100c2;
+   font-family: Poppins; 
+  text-transform: uppercase;
+  font-size: larger;
+} */
+
+.btn2 {
+  /* position: absolute; */
+  width: 45%;
+  height: 53.32px;
+  /* left: 26%;
+  top: 520px; */
+  color: #3100c2;
+  background: #ffffff;
+  border: 4.26556px solid #3100c2;
+  box-sizing: border-box;
+  /* box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25); */
+  border-radius: 24.527px;
+  /* font-family: Poppins; */
+  filter: drop-shadow(4.26556px 4.26556px 4.26556px rgba(49, 0, 194, 0.31));
+  font-family: Poppins;
+  cursor: pointer;
+}
+
+/* .btn2:hover {
+  background: #3100c2;
+  color: white;
+  font-family: Poppins; 
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: larger;
+} */

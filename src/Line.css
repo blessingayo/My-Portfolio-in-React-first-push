@@ -1,0 +1,10 @@
+.line {
+  position: absolute;
+  width: 30%;
+  /* height: 0px; */
+  left: 10%;
+  top: 85%;
+
+  border: 1px solid rgba(175, 175, 175, 0.38);
+  transform: rotate(0.25deg);
+}
